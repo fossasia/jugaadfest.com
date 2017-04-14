@@ -1,2 +1,3 @@
-# blog.fossasia.org
-FOSSASIA Blog
+# jugaadfest.com
+
+Website for Jugaadfest India
